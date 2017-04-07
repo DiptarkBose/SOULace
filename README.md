@@ -20,3 +20,5 @@ SOULace was created with a lot of hardwork and dedication (exaggerating maybe!!)
 
 3. Diptark Bose (https://github.com/DiptarkBose)
 
+<a href="https://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a>
+
